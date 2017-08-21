@@ -19,7 +19,8 @@ public class HelloWorld {
 	    @RequestMapping("/")
 	    String home() {
 	    
-	        return "Hello World Test2! Git edited 2";
+	    	System.out.println("Edited in Cloned Eclipse Workspace 3");
+	        return "Hello World Test2! Git edited 2 (Edited in Cloned Eclipse Workspace 3)";
 	    }
 	    
 	
