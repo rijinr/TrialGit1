@@ -19,7 +19,8 @@ public class HelloWorld {
 	    @RequestMapping("/")
 	    String home() {
 	    
-	        return "Hello World Test2! Git edited 2";
+	    	System.out.println("Test Commit 4 Workspace2");
+	        return "Hello World Test2! Git edited 2  ";
 	    }
 	    
 	
