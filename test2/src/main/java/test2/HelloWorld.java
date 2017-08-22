@@ -19,13 +19,14 @@ public class HelloWorld {
 	    @RequestMapping("/")
 	    String home() {
 	    
-<<<<<<< HEAD
+
 	    	System.out.println("Edited in Cloned Eclipse Workspace 3");
+//pulled and made conflict free
+			System.out.println("Test Commit 4 Workspace2");
+			//return "Hello World Test2! Git edited 2  ";
+//
 	        return "Hello World Test2! Git edited 2 (Edited in Cloned Eclipse Workspace 3)";
-=======
-	    	System.out.println("Test Commit 4 Workspace2");
-	        return "Hello World Test2! Git edited 2  ";
->>>>>>> branch 'master' of https://github.com/rijinr/TrialGit1.git
+
 	    }
 	    
 	
