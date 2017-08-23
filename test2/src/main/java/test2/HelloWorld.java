@@ -24,8 +24,15 @@ public class HelloWorld {
 //pulled and made conflict free
 			System.out.println("Test Commit 4 Workspace2");
 			//return "Hello World Test2! Git edited 2  ";
-//
-	        return "Hello World Test2! Git edited 2 (Edited in Cloned Eclipse Workspace 3)";
+// After resoving conflicts from remote repository
+			System.out.println("Branch Edit 1");
+			System.out.println("Branch Edit 2");
+			
+
+	        return "Hello World Test2! Git edited 2 (Edited in Cloned Eclipse Workspace 3)  ";
+
+
+
 
 	    }
 	    
