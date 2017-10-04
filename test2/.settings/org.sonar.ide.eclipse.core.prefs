@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
-extraProperties=
+extraProperties=sonar.java.coveragePlugin\=jacoco\r\nsonar.jacoco.reportPath\=/Users/rijin.r/git/TrialGit1_2/test2/../target/jacoco.exec
 projectKey=com.example\:myproject
 serverUrl=http\://localhost\:9000
 version=2
